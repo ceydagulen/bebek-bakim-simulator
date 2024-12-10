@@ -9,11 +9,17 @@ Bebek Bakım Simülatörü, bir bebeğin hayatındaki temel ihtiyaçları yönet
 
 
 Özellikler
+
+
 📈 İhtiyaç Yönetimi:
 Bebeğinizin tokluk, uyku, sevgi, sosyalleşme gibi temel ihtiyaçlarını yönetin.
 
+
+
 🧑‍💻 Kullanıcı Dostu Menü:
 Kullanımı kolay bir arayüz ile istediğiniz işlemi seçin.
+
+
 
 🎓 Eğitici ve Eğlenceli:
 Çocuk bakımı kavramlarını öğrenirken eğlenin!
