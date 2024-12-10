@@ -1,4 +1,7 @@
 Bebek Bakım Simülatörü
+
+
+
 🎮 Bir bebeğin ihtiyaçlarını karşılamaya hazır mısınız?
 
 
